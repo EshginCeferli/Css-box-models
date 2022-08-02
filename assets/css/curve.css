@@ -1,0 +1,17 @@
+.first {
+  border-radius: 10%;
+  background-color: orange;
+  height: 200px;
+  width: 190px;
+  padding: 10px;
+}
+.second {
+  border-radius: 10%;
+  background-color: rgb(255, 0, 76);
+  height: 200px;
+  width: 190px;
+  padding: 10px;
+}
+h1{
+    color: rgb(205, 24, 48);
+}
